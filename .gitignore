@@ -15,5 +15,7 @@
 .sqlite3/*
 !.sqlite3/.gitkeep
 
+.techtrain/config.toml
+
 node_modules
 .DS_Store
